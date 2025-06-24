@@ -11,17 +11,18 @@ Hệ thống lab gồm 7 lab thực hiện các nhiệm vụ sau
 * [audio_stego_tool](https://github.com/mdt12345689/Custom_Lab/tree/main/audio_stego_tool) Thực hành cài đặt và sử dụng công cụ Audio Stego để giấu và tách tin vào audio
 
 
-## Lý thuyết phương pháp và tham khảo
-![image](https://github.com/mdt12345689/Custom_Lab/blob/main/Steganography%20method/Picture1.png)
-Phương pháp giấu tin bằng LSB đơn thuần
+## Lý thuyết phương pháp và tham khảo  
+Phương pháp giấu tin bằng LSB đơn thuần  
+![image](https://github.com/mdt12345689/Custom_Lab/blob/main/Steganography%20method/Picture1.png)  
 
 
-![image](https://github.com/mdt12345689/Custom_Lab/blob/main/Steganography%20method/Picture2.png)
-Phương pháp giấu tin bằng 8 bit MSB và 3 bit LSB
+Phương pháp giấu tin bằng 8 bit MSB và 3 bit LSB  
+![image](https://github.com/mdt12345689/Custom_Lab/blob/main/Steganography%20method/Picture2.png)  
 
 
-![image](https://github.com/mdt12345689/Custom_Lab/blob/main/Steganography%20method/Picture3.png)
-Phương pháp giấu tin bằng 8 bit MSB và 4 bit LSB
+Phương pháp giấu tin bằng 8 bit MSB và 4 bit LSB  
+![image](https://github.com/mdt12345689/Custom_Lab/blob/main/Steganography%20method/Picture3.png)  
+
 
 ## Guide to directories
 
