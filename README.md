@@ -10,42 +10,21 @@ Hệ thống lab gồm 7 lab thực hiện các nhiệm vụ sau
 * [compare_lsb](https://github.com/mdt12345689/Custom_Lab/tree/main/compare_lsb) So sánh 2 phương pháp trên với phương pháp giấu tin vào LSB đơn thuần
 * [audio_stego_tool](https://github.com/mdt12345689/Custom_Lab/tree/main/audio_stego_tool) Thực hành cài đặt và sử dụng công cụ Audio Stego để giấu và tách tin vào audio
 
-
 ## Lý thuyết phương pháp và tham khảo  
-Phương pháp giấu tin bằng LSB đơn thuần  
+* Phương pháp giấu tin bằng LSB đơn thuần  
 ![image](https://github.com/mdt12345689/Custom_Lab/blob/main/Steganography%20method/Picture1.png)  
 
-
-Phương pháp giấu tin bằng 8 bit MSB và 3 bit LSB  
+* Phương pháp giấu tin bằng 8 bit MSB và 3 bit LSB  
 ![image](https://github.com/mdt12345689/Custom_Lab/blob/main/Steganography%20method/Picture2.png)  
 
-
-Phương pháp giấu tin bằng 8 bit MSB và 4 bit LSB  
+* Phương pháp giấu tin bằng 8 bit MSB và 4 bit LSB  
 ![image](https://github.com/mdt12345689/Custom_Lab/blob/main/Steganography%20method/Picture3.png)  
 
+* Công cụ Audio Stego: https://github.com/danielcardeenas/AudioStego
 
-## Guide to directories
-
-* scripts/labtainers-student -- the work directory for running and 
-   testing student labs.  You must be in that directory to run 
-   student labs.
-   
-* scripts/labtainers-instructor -- the work directory for 
-   running and testing automated assessment and viewing student
-   results.
-  
-* labs -- Files specific to each of the labs
-   
-* setup\_scripts -- scripts for installing Labtainers and Docker and updating Labtainers
-   
-* docs -- latex source for the labdesigner.pdf, and other documentation.
-
-* UI -- Labtainers lab editor source code (Java).
+## Hướng dẫn thực hiện Lab
+* Sử dụng môi trường Labtainer để tải lab về tại: https://nps.edu/web/c3o/labtainers-installation
+* File hướng dân thực hành lab tại [instruction_doc](https://github.com/mdt12345689/Custom_Lab/tree/main/instruction_doc)
 
 
-January 24, 2018
-
--  Use of tabbed windows caused instructor side to fail, use of double quotes.
--  Ignore files in \_tar directories (other than .tar) when determining build
-   dependencies.
 
