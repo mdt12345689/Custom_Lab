@@ -8,20 +8,6 @@ Labtainers include more than 50 cyber lab exercises and tools to build your own.
 * Automated assessment of student lab activity and progress
 * Individualized lab exercises to discourage sharing solutions
 
-Labtainers provide controlled and consistent execution environments in which students perform labs entirely within the confines of their computer, regardless of the Linux distribution and packages installed on the student's computer.  Labtainers run on our [VM appliance][vm-appliancee], or on any Linux
-with Dockers installed.  And Labtainers is available as cloud-based VMs, e.g., on Azure as described in the [Student Guide][student-guide].
-
-See the [Student Guide][student-guide] for installation and use, and the [Instructor Guide][instructor-guide] for student assessment.  Developing and customizing
-lab exercises is described in the [Designer Guide][designer-guide].
-See the [Papers][Papers] for additional information about the framework.
-The Labtainers website, and downloads (including VM appliances with Labtainers pre-installed) are at <https://nps.edu/web/c3o/labtainers>.
-
-[vm-appliance]: https://nps.edu/web/c3o/virtual-machine-images
-[student-guide]: docs/student/labtainer-student.pdf
-[instructor-guide]: docs/instructor/labtainer-instructor.pdf
-[designer-guide]: docs/labdesigner/labdesigner.pdf
-[Papers]: https://nps.edu/web/c3o/labtainers#papers
-
 <<<<<<< HEAD
 Distribution created: 11/22/2024 09:42 </br>
 Revision: v1.4.4e </br>
