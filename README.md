@@ -3,11 +3,12 @@ Mô tả các Lab
 
 Hệ thống lab gồm 7 lab thực hiện các nhiệm vụ sau
 
-* [lsb73_transfer_extract] Thực hiện giấu tin trên file audio với phương pháp 8 bit MSB và 3 bit LSB
-* Thực hiện tách tin trong file audio được giấu bằng phương pháp 8 bit MSB và 3 bit LSB
-* Thực hiện giấu tin trên file audio với phương pháp 8 bit MSB và 4 bit LSB
-* Thực hiện tách tin trong file audio được giấu bằng phương pháp 8 bit MSB và 4 bit LSB
-
+* [steg_lsb73](https://github.com/mdt12345689/Custom_Lab/tree/main/steg_lsb73) Thực hiện giấu tin trên file audio với phương pháp 8 bit MSB và 3 bit LSB
+* [lsb73_transfer_extract](https://github.com/mdt12345689/Custom_Lab/tree/main/lsb73_transfer_extract) Thực hiện tách tin trong file audio được giấu bằng phương pháp 8 bit MSB và 3 bit LSB
+* [stego_audio_lsb84_embed](https://github.com/mdt12345689/Custom_Lab/tree/main/stego_audio_lsb84_embed) Thực hiện giấu tin trên file audio với phương pháp 8 bit MSB và 4 bit LSB
+* [stego_audio_lsb84_extract](https://github.com/mdt12345689/Custom_Lab/tree/main/stego_audio_lsb84_extract) Thực hiện tách tin trong file audio được giấu bằng phương pháp 8 bit MSB và 4 bit LSB
+* [compare_lsb](https://github.com/mdt12345689/Custom_Lab/tree/main/compare_lsb) So sánh 2 phương pháp trên với phương pháp giấu tin vào LSB đơn thuần
+* [audio_stego_tool](https://github.com/mdt12345689/Custom_Lab/tree/main/audio_stego_tool) Thực hành cài đặt và sử dụng công cụ Audio Stego để giấu và tách tin vào audio
 
 ## Content
 [Distribution and Use](#distribution-and-use)
