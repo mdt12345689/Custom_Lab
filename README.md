@@ -12,8 +12,14 @@ Hệ thống lab gồm 7 lab thực hiện các nhiệm vụ sau
 
 
 ## Lý thuyết phương pháp và tham khảo
-Please see the licensing and distribution information
-in the [docs/license.md file](docs/license.md).
+Phương pháp giấu tin bằng LSB đơn thuần
+![image](https://github.com/mdt12345689/Custom_Lab/blob/main/Steganography%20method/Picture1.png)
+
+Phương pháp giấu tin bằng 8 bit MSB và 3 bit LSB
+![image](https://github.com/mdt12345689/Custom_Lab/blob/main/Steganography%20method/Picture2.png)
+
+Phương pháp giấu tin bằng 8 bit MSB và 4 bit LSB
+![image](https://github.com/mdt12345689/Custom_Lab/blob/main/Steganography%20method/Picture3.png)
 
 ## Guide to directories
 
