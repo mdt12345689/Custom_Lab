@@ -21,11 +21,11 @@ Hệ thống lab gồm 7 lab sử dụng các script python và các công cụ 
 ![image](https://github.com/mdt12345689/Custom_Lab/blob/main/Steganography%20method/Picture3.png)  
 
 * Công cụ Audio Stego: https://github.com/danielcardeenas/AudioStego
-* Các file script có trong lab có thể lấy tại [LSB83_medthod](https://github.com/mdt12345689/Custom_Lab/tree/main/LSB83_medthod) và [LSB84_method](https://github.com/mdt12345689/Custom_Lab/tree/main/LSB84_method)
 
 ## Hướng dẫn thực hiện Lab
 * Sử dụng môi trường Labtainer để tải lab về tại: https://nps.edu/web/c3o/labtainers-installation
 * File hướng dân thực hành lab tại [instruction_doc](https://github.com/mdt12345689/Custom_Lab/tree/main/instruction_doc)
+* Các file script có trong lab có thể lấy tại [LSB83_medthod](https://github.com/mdt12345689/Custom_Lab/tree/main/LSB83_medthod) và [LSB84_method](https://github.com/mdt12345689/Custom_Lab/tree/main/LSB84_method)
 
 
 
