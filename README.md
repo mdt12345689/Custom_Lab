@@ -1,12 +1,13 @@
-Labtainers: A Docker-based cyber lab framework
+Mô tả các Lab
 ==============================================
 
-Labtainers include more than 50 cyber lab exercises and tools to build your own. Import a single [VM appliance][vm-appliance] or install on a Linux system and your students are done with provisioning and administrative setup, for these and future lab exercises.  
+Hệ thống lab gồm 7 lab thực hiện các nhiệm vụ sau
 
-* Consistent lab execution environments and automated provisioning via Docker containers
-* Multi-component network topologies on a modestly performing laptop computer 
-* Automated assessment of student lab activity and progress
-* Individualized lab exercises to discourage sharing solutions
+* [lsb73_transfer_extract] Thực hiện giấu tin trên file audio với phương pháp 8 bit MSB và 3 bit LSB
+* Thực hiện tách tin trong file audio được giấu bằng phương pháp 8 bit MSB và 3 bit LSB
+* Thực hiện giấu tin trên file audio với phương pháp 8 bit MSB và 4 bit LSB
+* Thực hiện tách tin trong file audio được giấu bằng phương pháp 8 bit MSB và 4 bit LSB
+
 
 ## Content
 [Distribution and Use](#distribution-and-use)
