@@ -1,7 +1,7 @@
 Mô tả các Lab
 ==============================================
 
-Hệ thống lab gồm 7 lab thực hiện các nhiệm vụ sau
+Hệ thống lab gồm 7 lab sử dụng các script python và các công cụ khác để thực hiện các nhiệm vụ sau
 
 * [steg_lsb73](https://github.com/mdt12345689/Custom_Lab/tree/main/steg_lsb73) Thực hiện giấu tin trên file audio với phương pháp 8 bit MSB và 3 bit LSB
 * [lsb73_transfer_extract](https://github.com/mdt12345689/Custom_Lab/tree/main/lsb73_transfer_extract) Thực hiện tách tin trong file audio được giấu bằng phương pháp 8 bit MSB và 3 bit LSB
@@ -21,6 +21,7 @@ Hệ thống lab gồm 7 lab thực hiện các nhiệm vụ sau
 ![image](https://github.com/mdt12345689/Custom_Lab/blob/main/Steganography%20method/Picture3.png)  
 
 * Công cụ Audio Stego: https://github.com/danielcardeenas/AudioStego
+* Các file script có trong lab có thể lấy tại [LSB83_medthod](https://github.com/mdt12345689/Custom_Lab/tree/main/LSB83_medthod) và [LSB84_method](https://github.com/mdt12345689/Custom_Lab/tree/main/LSB84_method)
 
 ## Hướng dẫn thực hiện Lab
 * Sử dụng môi trường Labtainer để tải lab về tại: https://nps.edu/web/c3o/labtainers-installation
