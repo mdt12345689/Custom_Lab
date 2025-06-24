@@ -10,16 +10,8 @@ Hệ thống lab gồm 7 lab thực hiện các nhiệm vụ sau
 * [compare_lsb](https://github.com/mdt12345689/Custom_Lab/tree/main/compare_lsb) So sánh 2 phương pháp trên với phương pháp giấu tin vào LSB đơn thuần
 * [audio_stego_tool](https://github.com/mdt12345689/Custom_Lab/tree/main/audio_stego_tool) Thực hành cài đặt và sử dụng công cụ Audio Stego để giấu và tách tin vào audio
 
-## Content
-[Distribution and Use](#distribution-and-use)
 
-[Guide to directories](#guide-to-directories)
-
-[Support](#support)
-
-[Release notes](#release-notes)
-
-## Distribution and Use
+## Lý thuyết phương pháp và tham khảo
 Please see the licensing and distribution information
 in the [docs/license.md file](docs/license.md).
 
